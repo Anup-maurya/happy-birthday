@@ -14,6 +14,6 @@ setInterval(()=>{
 
 
 setTimeout(()=>{
-  followers.innerText="Anchal Singh"
+  followers.innerText="Anup Kumar Maurya"
 },7000);
 
